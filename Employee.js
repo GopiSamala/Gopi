@@ -6,6 +6,6 @@ var Employee1 = /** @class */ (function () {
         this.ename = "ravikumar";
         this.eaddress = "hyderabad";
     }
-    return Employee1;
+    return Employee1; //comment
 }());
 exports.Employee1 = Employee1;
